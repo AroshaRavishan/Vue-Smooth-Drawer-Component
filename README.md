@@ -11,4 +11,7 @@ The `SmoothDrawer` component is a versatile and reusable Vue component designed 
 - Easy integration and customization
 - Supports dynamic content
 
+## Preview
+
+![Smooth Drawer Preview](https://raw.githubusercontent.com/AroshaRavishan/Vue-Smooth-Drawer-Component/main/Drawer%20sample%20image.png)
 
